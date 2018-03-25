@@ -1,0 +1,1 @@
+Hi, I need help finding a developer to write firmware for a simple fitness tracker device (steps, sleep, etc). I am a mechanical engineer so I have no experience with this kind of coding. Can you help or provide suggestions? Thanks - Nick 
